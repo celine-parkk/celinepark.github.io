@@ -3,15 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "celinepark.github.io"
+  title: "Celine Park"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: resources.qmd
-        text: My Portfolio!
       - href: about.qmd
         text: About
+      - href: resources.qmd
+        text: My R projects!
+      - href: portfolio.qmd
+        text: My Reports!
+    
+     
     
 
 format:

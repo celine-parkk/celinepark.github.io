@@ -2,36 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Celine Park",
+    "title": "Celine Park’s Portfolio",
     "section": "",
-    "text": "Hi there! Welcome to my page!\nAbout me:"
+    "text": "Hi there! Welcome to my page! On this website, you’ll find some of my R projects, along with some of my proudest reports I have done!\nAbout me:"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Learn More About Me",
     "section": "",
-    "text": "# alternatively, you can write\n\nelements using markdown (# this is an\n\nelement)\n\nthis is an <h1> element of class title\n\n\nthis is a <p> element\n\n\nthis is a <p> element of class title"
+    "text": "Attached below is a photo of a water filtration system that we helped raise funds to build in Nepal.\n\n\nI also am currently working as a supervisor behind the front desk of the Student Resource Building located at the University of California, Santa Barbara."
   },
   {
     "objectID": "index.html#im-a-double-major-in-environmental-studies-and-statistics-and-data-science.-i-am-passionate-about-the-environment-and-also-am-looking-into-environmental-data-analysis-in-the-future",
     "href": "index.html#im-a-double-major-in-environmental-studies-and-statistics-and-data-science.-i-am-passionate-about-the-environment-and-also-am-looking-into-environmental-data-analysis-in-the-future",
-    "title": "Celine Park",
+    "title": "Celine Park’s Portfolio",
     "section": "I’m a double major in Environmental Studies and Statistics and Data Science. I am passionate about the environment and also am looking into environmental data analysis in the future!",
     "text": "I’m a double major in Environmental Studies and Statistics and Data Science. I am passionate about the environment and also am looking into environmental data analysis in the future!\nEducation:"
   },
   {
     "objectID": "index.html#ba-in-environmental-studies-ba-in-statistics-and-data-science-university-of-california-santa-barbara",
     "href": "index.html#ba-in-environmental-studies-ba-in-statistics-and-data-science-university-of-california-santa-barbara",
-    "title": "Celine Park",
+    "title": "Celine Park’s Portfolio",
     "section": "BA in Environmental Studies BA in Statistics and Data Science University of California, Santa Barbara",
     "text": "BA in Environmental Studies BA in Statistics and Data Science University of California, Santa Barbara"
   },
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "My Portfolio!",
+    "title": "My R Project!",
     "section": "",
-    "text": "And here is some normal text beneath it."
+    "text": "For this project, we colelcted data from the Yolo County wells in Sacramento from the California Natural Resources Agency. We compared ground surface displacement of water compared to the average groundwater level. This plot found that the groundwater levels of Yolo County are continuing to overall drop below sea level. However, when comparing groundwater levels to ground surface displacement, the ground surface displacement levels are less drastic than the levels of the groundwater.\n\n\n\n\n\nFor this project, I collected data from UCGS. I made a chart that compared the amount of surface water and groundwater withdrawals by state to compare who withdrew the most amount of surface and ground water.\n\n\n\n\n\nFor this project, I collected data from UCGS. I made a chart that compared the amount of water withdrawals by state for certain sectors to compare who withdrew the most amount of water in certain sectors."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Reports",
+    "section": "",
+    "text": "Here is the introduction to the report\n\n\nHaiti Earthquake\n\n\n\nHere is the mission statement to the report\n\n\nCorporate Actions"
   }
 ]

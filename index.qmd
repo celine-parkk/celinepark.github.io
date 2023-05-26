@@ -1,5 +1,5 @@
 ---
-title: "Celine Park"
+title: "Celine Park's Portfolio"
 image: image.jpg
 about: 
   template: trestles
@@ -17,7 +17,7 @@ about:
 ------------------------------------------------------------------------
 
 <!-- ::: {.big-text} -->
-Hi there! Welcome to my page!
+Hi there! Welcome to my page! On this website, you'll find some of my R projects, along with some of my proudest reports I have done!
 
 ------------------------------------------------------------------------
 

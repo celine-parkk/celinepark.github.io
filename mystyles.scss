@@ -13,7 +13,7 @@ $navbar-bg: $cream; // navbar
 $navbar-fg: $dark-sage-green; // navbar foreground elements
 $navbar-hl: $purple; // highlight color when hovering over navbar links
 $body-bg: $light-sage-green; // page background 
-$body-color: $gray; // page text 
+$body-color: $cream; // page text 
 $footer-bg: $cream; // footer 
 $link-color: $gray; // hyperlinks 
 
@@ -29,8 +29,16 @@ $code-block-bg: $dark-sage-green; // code block background color
 }
 
 .custom-subtitle {
-  font-size: 22px;
+  font-size: 15px;
   font-style: italic;
-  color: $purple;
+  color: $dark-sage-green;
+}
+
+/*-- scss:rules --*/
+
+h1, h3 {
+  letter-spacing: 2px;
+  font-weight: 700;
+  color: $gray;
 }
 

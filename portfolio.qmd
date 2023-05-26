@@ -1,0 +1,18 @@
+---
+title: "My Reports"
+editor: visual
+---
+
+
+<p class="custom-subtitle"> Attached are a couple reports that I worked on. The first one was a report I created on the Haiti Earthquake and Tropical Storm Grace. The second report was created for the Center for Science in the Public Interest, where a couple students and I worked under Professor David Cleveland to provide facts about thte corporate values and actions of SSB companies. </p>
+
+
+![Here is the introduction to the report](introduction.png)
+
+[Haiti Earthquake](haiti earthquake.pdf)
+
+
+
+![Here is the mission statement to the report](mission statement.png)
+
+[Corporate Actions](corporate actions.docx.pdf)

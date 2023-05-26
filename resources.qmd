@@ -1,9 +1,18 @@
 ---
-title: "My Portfolio!"
+title: "My R Project!"
 editor: visual
+image: project.png
 
 ---
 
-<p class="custom-subtitle">Here is my custom subtitle.</p>
 
-<p>And here is some normal text beneath it.</p>
+<p class="custom-subtitle">Attached are a couple projects that I worked on  in a Data Wrangling Class last fall. I wrangled messy data from several websites and cleaned up the data to analyze them into plots.</p>
+
+
+![For this project, we colelcted data from the Yolo County wells in Sacramento from the California Natural Resources Agency. We compared ground surface displacement of water compared to the average groundwater level. This plot found that the groundwater levels of Yolo County are continuing to overall drop below sea level. However, when comparing groundwater levels to ground surface displacement, the ground surface displacement levels are less drastic than the levels of the groundwater. ](project.png)
+
+![For this project, I collected data from UCGS. I made a chart that compared the amount of surface water and groundwater withdrawals by state to compare who withdrew the most amount of surface and ground water.](hi.png)
+
+
+
+![For this project, I collected data from UCGS. I made a chart that compared the amount of water withdrawals by state for certain sectors to compare who withdrew the most amount of water in certain sectors.](hello.png)
