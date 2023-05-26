@@ -1,6 +1,6 @@
 ---
 title: "Celine Park's Portfolio"
-image: celinepark.jpg
+image: IMG_0542.JPG
 about: 
   template: trestles
   image-shape: round
