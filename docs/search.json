@@ -2,15 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "celinepark.github.io",
+    "title": "Celine Park",
     "section": "",
-    "text": "usethis::use_git()\n\n✔ Setting active project to '/Users/celinepark/github/celinepark.github.io'"
+    "text": "Hi there! Welcome to my page!\nAbout me:"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "# alternatively, you can write\n\nelements using markdown (# this is an\n\nelement)\n\nthis is an <h1> element of class title\n\n\nthis is a <p> element\n\n\nthis is a <p> element of class title"
+  },
+  {
+    "objectID": "index.html#im-a-double-major-in-environmental-studies-and-statistics-and-data-science.-i-am-passionate-about-the-environment-and-also-am-looking-into-environmental-data-analysis-in-the-future",
+    "href": "index.html#im-a-double-major-in-environmental-studies-and-statistics-and-data-science.-i-am-passionate-about-the-environment-and-also-am-looking-into-environmental-data-analysis-in-the-future",
+    "title": "Celine Park",
+    "section": "I’m a double major in Environmental Studies and Statistics and Data Science. I am passionate about the environment and also am looking into environmental data analysis in the future!",
+    "text": "I’m a double major in Environmental Studies and Statistics and Data Science. I am passionate about the environment and also am looking into environmental data analysis in the future!\nEducation:"
+  },
+  {
+    "objectID": "index.html#ba-in-environmental-studies-ba-in-statistics-and-data-science-university-of-california-santa-barbara",
+    "href": "index.html#ba-in-environmental-studies-ba-in-statistics-and-data-science-university-of-california-santa-barbara",
+    "title": "Celine Park",
+    "section": "BA in Environmental Studies BA in Statistics and Data Science University of California, Santa Barbara",
+    "text": "BA in Environmental Studies BA in Statistics and Data Science University of California, Santa Barbara"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "My Portfolio!",
+    "section": "",
+    "text": "And here is some normal text beneath it."
   }
 ]

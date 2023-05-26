@@ -8,13 +8,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: resources.qmd
+        text: My Portfolio!
+      - href: about.qmd
+        text: About
+    
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - mystyles.scss
+    mainfont: Times New Roman
     toc: true
+    page-layout: full
 
 editor: visual
 

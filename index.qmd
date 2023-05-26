@@ -1,9 +1,30 @@
 ---
-title: "celinepark.github.io"
+title: "Celine Park"
+image: image.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 16em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/celine-park-436707205/
+    - text: GitHub
+      href: https://github.com/celine-parkk
+    - text: Email
+      href: mailto::celinefpark@gmail.com
 ---
 
+------------------------------------------------------------------------
 
+<!-- ::: {.big-text} -->
+Hi there! Welcome to my page!
 
-```{r}
-usethis::use_git()
-```
+------------------------------------------------------------------------
+
+**About me**:
+
+## I'm a double major in Environmental Studies and Statistics and Data Science. I am passionate about the environment and also am looking into environmental data analysis in the future!
+
+**Education**:
+
+## BA in Environmental Studies BA in Statistics and Data Science University of California, Santa Barbara
